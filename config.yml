@@ -1,0 +1,10 @@
+FTP server connection:
+    host: ftpupload.net
+    user: uoolo_30538787
+    password: Harem175
+    root: /htdocs/
+Workspace:
+    flag: yes
+    directory: doc/
+Other settings:
+    timeout: 120
